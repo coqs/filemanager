@@ -1,0 +1,3 @@
+# hi welcome to robots.txt, nothing here :D
+User-agent: *
+Disallow:
