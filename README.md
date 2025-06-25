@@ -12,3 +12,4 @@ enjoy!
 2) how to diffrenciate between a file and folder using fs.stat
 3) extra debugging skills
 4) more about async functions
+5) how to defend against a cyber attack (in this case, a malicious file download, because somebody may try to download something that you didnt want to download, for e.g a root file or maybe even your whole C: directory, so it was a high vunlerbility if it was caught
