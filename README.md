@@ -1,3 +1,6 @@
+# DISCLAIMER
+the frontend was made by gemini-2.5-pro but the backend was all made by me, I just dont like designing lol..
+
 # this is simply like a local-hosted database that you can use to share your files with other :D
 
 # how to use (must install node first https://nodejs.org/en/download)
